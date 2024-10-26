@@ -7,6 +7,7 @@ import { getFirestore } from "firebase/firestore";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+
 const firebaseConfig = {
   apiKey: "AIzaSyDOas48yA1ZQrmuFrzY0M5prh2EQiwDlko",
   authDomain: "expense-tracker-3c950.firebaseapp.com",
